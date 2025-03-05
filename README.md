@@ -32,6 +32,12 @@ Five classification models were trained and evaluated:
 - **SMOTE (Synthetic Minority Over-sampling Technique)** was applied to balance the training data.
 - The test set was left **imbalanced** to reflect real-world distributions.
 
+## Alzheimer’s Disease Prediction Dashboard
+This Tableau dashboard explores Alzheimer’s disease risk factors, patient demographics, and predictive model performance.
+
+ **View the Dashboard Here:** [Alzheimer’s Prediction Dashboard](https://public.tableau.com/views/alzheimers-prediction/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## **Contact**
 If you have any questions or suggestions, feel free to reach out!
 
