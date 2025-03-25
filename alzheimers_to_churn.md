@@ -37,4 +37,4 @@ These are the same components used in building churn prediction systems, custome
 
 This file is here to clarify that connection for anyone reviewing this project with a product or decision science lens. 
 If you have questions, feel free to contact me please:  
-📧 [ersoydenizlal@gmail.com](mailto:ersoydenizlal@gmail.com)
+[ersoydenizlal@gmail.com](mailto:ersoydenizlal@gmail.com)
