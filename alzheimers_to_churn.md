@@ -2,8 +2,6 @@
 
 This project was originally developed to predict Alzheimer's diagnosis based on clinical, demographic, and behavioral data. While the subject matter is medical, the structure of the problem and the modeling approach are directly applicable to many real-world business cases: especially user churn prediction.
 
-This project used machine learning to classify the likelihood of Alzheimer's diagnosis. The same classification logic applies in digital product settings where the goal is to predict which users are at risk of churning (leaving or becoming inactive).
-
 ## Key Similarities
 
 In both contexts, the goal is to:
